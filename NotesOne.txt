@@ -1,5 +1,6 @@
 Vehicle Names
 ************
 1. Car
-2. Lorry
+2. Truck
 3. Bus
+4. Train
