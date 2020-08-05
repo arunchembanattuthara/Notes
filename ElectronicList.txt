@@ -4,3 +4,4 @@ Electronic Components
 2. resistor
 3. transistor
 4. diode
+5. LED
