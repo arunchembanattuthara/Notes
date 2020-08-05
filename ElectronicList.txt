@@ -1,0 +1,6 @@
+Electronic Components
+********************
+1. capacitor
+2. resistor
+3. transistor
+4. diode
