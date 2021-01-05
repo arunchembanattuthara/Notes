@@ -5,3 +5,4 @@ Electronic Components
 3. transistor
 4. diode
 5. LED
+6. 7 Segment
