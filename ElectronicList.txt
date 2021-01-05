@@ -6,3 +6,4 @@ Electronic Components
 4. diode
 5. LED
 6. 7 Segment
+7. Two way switch
